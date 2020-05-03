@@ -1,10 +1,10 @@
 # Sermonnotes On Your Phone
 ## Original Release Date - October 2011
 
-![Screenshot #1](../img/screenshot1.png)
-![Screenshot #2](../img/screenshot2.png)
-![Screenshot #3](../img/screenshot3.png)
-![Screenshot #4](../img/screenshot4.png)
+![Screenshot #1](img/screenshot1.png)
+![Screenshot #2](img/screenshot2.png)
+![Screenshot #3](img/screenshot3.png)
+![Screenshot #4](img/screenshot4.png)
 
 
 This webapps allows churches to post weekly sermon notes to a mobile optimized web-page. When users enter notes on their smartphones, and click the submit button after providing and email address, the user receives the notes that they have completed in their inbox.
