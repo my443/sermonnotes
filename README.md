@@ -1,10 +1,10 @@
 # Sermonnotes On Your Phone
 ## Original Release Date - October 2011
 
-![Screenshot #1](img/screenshot1.png)
-![Screenshot #2](img/screenshot2.png)
-![Screenshot #3](img/screenshot3.png)
-![Screenshot #4](img/screenshot4.png)
+![Screenshot #1](https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot1.png)
+![Screenshot #2](https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot2.png)
+![Screenshot #3](https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot3.png)
+![Screenshot #4](https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot4.png)
 
 
 This webapps allows churches to post weekly sermon notes to a mobile optimized web-page. When users enter notes on their smartphones, and click the submit button after providing and email address, the user receives the notes that they have completed in their inbox.
@@ -26,3 +26,4 @@ This product includes TinyMCE which is licenced under the GPL.
 [TinyMCE Licence](https://github.com/tinymce/tinymce/blob/develop/LICENSE.TXT)
 
 
+https://github.com/my443/sermonnotes/img/screenshot1.png
