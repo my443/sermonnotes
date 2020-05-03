@@ -8,10 +8,18 @@ This project includes the admin tools for creating the sermon note pages, as wel
 An example of a church who has used this webapp since 2013 [can be found here:](http://connect.westheights.org/)
 [Sermonnotes in Action](https://snotes.westheights.org/)
 
+## Technology
+
+* Written in PHP
+* The source files are flat-files to ensure speed for loading the page. 
+* There is no database. When a user submits their notes to be saved, there is no record of their notes saved. This ensures confidentialtiy for the user and eliminates the need for saving the record. 
+
 ## History
 2011 V1 - Writen in python. Served off a home computer during church. I had a flip-phone and a cell-phone plan that charged me 10cents a page for every page-visit.
 2011/12 V2/V3 - Rewritten in PHP so that it could be served on the church's infrastructure. 
 2013 and beyond - Some changes and updates, including style updates. Many of these updates are not captured here, but if you see something you like, I can pull reproduce it and commit it here for you. 
+
+[Original Sourceforge Link](https://sourceforge.net/projects/sermonnotes/)
 
 Licence
 This product is licenced under GPL
