@@ -20,8 +20,10 @@ This product includes TinyMCE which is licenced under the GPL.
 [TinyMCE Licence](https://github.com/tinymce/tinymce/blob/develop/LICENSE.TXT)
 
 <div align="center">
-![Screenshot #1](https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot1.png)  
-![Screenshot #2](https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot2.png)
-![Screenshot #3](https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot3.png)
-![Screenshot #4](https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot4.png)
+
+<img src="https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot1.png" alt="Screenshot #1">
+<img src="https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot2.png" alt="Screenshot #2">
+<img src="https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot3.png" alt="Screenshot #3">
+<img src="https://raw.githubusercontent.com/my443/sermonnotes/master/img/Screenshot4.png" alt="Screenshot #4">
+
 </div>
