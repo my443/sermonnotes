@@ -1,0 +1,158 @@
+/*  Noteappble CSS - A web-based note taking service for smartphones
+	Copyright (C) 2012 --  John van Dijk
+
+	This program is free software; you can redistribute it and/or
+	modify it under the terms of the GNU General Public License
+	as published by the Free Software Foundation; either version 2
+	of the License, or (at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program; if not, write to the Free Software
+	Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.  */
+
+// Used for notappble web-app.
+
+/* textarea { font-family: Verdana;  } */
+textarea { font-size: 120%;  }
+
+/* Found at: http://24ways.org/2009/have-a-field-day-with-html5-forms */
+html, body, h1, form, fieldset, legend, ol, li {
+    margin: 0;
+    padding: 0;
+    }
+    body {
+    background: #E6E6E6;
+    color: #111111;
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 20px;
+    }
+
+
+
+/*
+    FORM STUFF  from: http://css-tricks.com/4780-app-from-scratch-4-html-css/
+*/
+label { background: #999; color: white; padding: 3px; }
+input[type="text"], input[type="password"] { border: 3px solid #999; font-size: 18px; padding: 2px; display: inline; }
+#add-new input[type="text"] { width: 532px; float: left; margin: 0 2px 0 69px; }
+#add-new input[type="text"]:focus { border-color: #73B8BF; }
+#add-new input[type="submit"] { padding: 10px 12px; }
+
+/* Basic formats */
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+/* Global align classes */
+
+.left {
+    text-align: inherit;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.full {
+    text-align: justify
+}
+
+.notesbutton {
+   display:    inline;
+   border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   padding: 10px 4px;
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: Helvetica, Arial, san-serif;
+   text-decoration: none;
+   vertical-align: middle;
+   border-right:none;
+   font-weight:bold;
+   font-size:large;
+   }
+   
+.arrowbutton {
+   display:    inline;
+   border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   padding: 10px 4px;
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: Helvetica, Arial, san-serif;
+   text-decoration: none;
+   vertical-align: middle;
+   border-left:none;
+   font-weight:bold;
+   font-size:large;
+   }
+   
+ input[type="submit"] {
+
+   border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   padding: 10px 4px;
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-radius: 0px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: Helvetica, Arial, san-serif;
+   text-decoration: none;
+   vertical-align: middle;
+   border-left:none;
+   width: 100%;
+   font-weight:bold;
+   font-size:large;
+}
